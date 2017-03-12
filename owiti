@@ -1,0 +1,36 @@
+[33mcommit a4953428f4b9fbed8b62f3576c2ebd9b33c824d7[m
+Merge: ea27250 bc77c8e
+Author: ma.developer14 <madeveloper14@vantibolli.com>
+Date:   Sat Mar 11 19:32:37 2017 -0800
+
+    Merge branch 'login'
+
+[33mcommit ea27250cbdf668434f6198aa6828473209e06c9f[m
+Author: ma.developer14 <madeveloper14@vantibolli.com>
+Date:   Sat Mar 11 19:29:05 2017 -0800
+
+    Data has been added
+
+[33mcommit bc77c8ec8aff70eae7b550ac134cf1e13bfe4eef[m
+Author: ma.developer14 <madeveloper14@vantibolli.com>
+Date:   Sat Mar 11 19:21:51 2017 -0800
+
+    login file
+
+[33mcommit f801951f24154a92b0588c21bdcfc39f771491b5[m
+Author: ma.developer14 <madeveloper14@vantibolli.com>
+Date:   Sat Mar 11 18:18:16 2017 -0800
+
+    third commit
+
+[33mcommit 8d423780f96aa9340a5a70bc0455387e645cdc6f[m
+Author: ma.developer14 <madeveloper14@vantibolli.com>
+Date:   Sat Mar 11 18:16:07 2017 -0800
+
+    second commit
+
+[33mcommit 35604f9de7735231832fec71b4092065cf3df2f2[m
+Author: ma.developer14 <madeveloper14@vantibolli.com>
+Date:   Sat Mar 11 17:45:15 2017 -0800
+
+    Initial commit
